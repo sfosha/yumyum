@@ -21,3 +21,4 @@ int main()
 // МОИ СОБСТВЕННЫЙЕ ПРАВККИ! помогите
 //GHFhFHDJ
 //comment
+//comment
